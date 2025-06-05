@@ -1,8 +1,22 @@
-[
-    {
-        "nombre": "Juan David",
-        "id": "1225",
-        "email": "asascsa@gmail.com",
-        "phone": "123456"
-    }
-]
+{
+    "contactos": [
+        {
+            "nombre": "juan david",
+            "id": "dfbgvdfbdf",
+            "email": "sdfvgdfvdf",
+            "phone": "monda"
+        },
+        {
+            "nombre": "profe",
+            "id": "deje",
+            "email": "ejercicios",
+            "phone": "mas faciles"
+        },
+        {
+            "nombre": "no",
+            "id": "entiendo",
+            "email": "porque a veces",
+            "phone": "va muy rapido"
+        }
+    ]
+}
